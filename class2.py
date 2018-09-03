@@ -1,3 +1,5 @@
+# This is the version of snake game after the second lecture.
+
 from tkinter import *
 import random
 # #include<tkinter.h>
