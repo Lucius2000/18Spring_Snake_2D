@@ -1,3 +1,5 @@
+# This is the latest version of the Snake Game.
+
 from tkinter import *
 from tkinter import font
 import pygame
